@@ -1,0 +1,2 @@
+use scott;
+show tables;
